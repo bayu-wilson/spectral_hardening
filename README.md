@@ -1,4 +1,4 @@
-# Spectral hardening tests from the appendix from "Quantifying Lyman-α emissions from reionization fronts" [(Wilson et al. 2024)](https://arxiv.org/abs/2406.14622
+# Spectral hardening tests from the appendix from "Quantifying Lyman-α emissions from reionization fronts" [(Wilson et al. 2024)](https://arxiv.org/abs/2406.14622)
 
 Bayu Wilson
 
